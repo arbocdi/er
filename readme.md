@@ -20,7 +20,7 @@
 
     ![crows-foot-notation-multiplicity-of-many.png](crows-foot-notation-multiplicity-of-many.png)
 
-    2. Индикатор обязательности определяет обязанна ли связанная сущность сущестововать:
+    2. Индикатор обязательности определяет обязанна ли связанная сущность существовать:
 
     ![mandratory.png](mandratory.png)
 
